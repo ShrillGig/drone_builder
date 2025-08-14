@@ -16,19 +16,7 @@ YOLO11s + finetuning:
 Кол-во эпох: 60
 
 Результаты:
-<img width="488" height="581" alt="image" src="https://github.com/user-attachments/assets/a7cec7e8-ef41-41fc-9b01-db38e267808c" />
-рис.1 
 
-<img width="477" height="587" alt="image" src="https://github.com/user-attachments/assets/f45bc86b-dfc8-4f21-ac82-b5137854c899" />
-рис.2
-
-<img width="485" height="585" alt="image" src="https://github.com/user-attachments/assets/dafb1e1e-e1b1-4e88-a660-e6916ab8e8d2" />
-рис.3
-
-<img width="482" height="587" alt="image" src="https://github.com/user-attachments/assets/9956580d-9191-4913-9248-400bf30f0084" />
-рис.4
-
-<img width="257" height="42" alt="image" src="https://github.com/user-attachments/assets/3e9fc826-ea7c-4966-b890-089d145763cb" />
 
 
 
