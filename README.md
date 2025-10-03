@@ -105,6 +105,12 @@ YOLO11s + finetuning:
 <img width="1263" height="695" alt="input_vs_time" src="https://github.com/user-attachments/assets/9c4c229d-f918-4a3e-be73-6c3eb089c9a1" />
 рис.4
 
+<img width="640" height="480" alt="yolo no fine" src="https://github.com/user-attachments/assets/45ffad4c-cc94-4300-91f9-d03f83c3669e" />
+
+<img width="640" height="480" alt="yolo yes fine" src="https://github.com/user-attachments/assets/9d98545d-ef23-4732-9e8c-aca091e1ac64" />
+
+
+
 Ссылка на видео:
 
 
